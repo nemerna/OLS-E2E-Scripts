@@ -1,0 +1,14 @@
+[
+    {
+        "prompt": "generate me an example kubernetes Pod yaml",
+        "expected_kind": "Pod"
+    },
+    {
+        "prompt": "create a basic Kubernetes Pod Yaml for helloworld image",
+        "expected_kind": "Pod"
+    },
+    {
+        "prompt": "create a kubernetes service yaml for a web application",
+        "expected_kind": "Service"
+    }
+]
